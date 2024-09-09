@@ -1,0 +1,11 @@
+admin;1234;1
+user;123;0
+shink;75632;1
+kireev;5428;0
+polina;4321;1
+kurenbasov;0410;1
+kuptsova;43563;0
+solod1;12345;0
+rodion;123;0
+iva;123;0
+krab;123;0

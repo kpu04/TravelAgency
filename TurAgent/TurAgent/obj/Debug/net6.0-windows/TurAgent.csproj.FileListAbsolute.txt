@@ -1,0 +1,54 @@
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\bin\Debug\net6.0-windows\TurAgent.exe
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\bin\Debug\net6.0-windows\TurAgent.deps.json
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\bin\Debug\net6.0-windows\TurAgent.runtimeconfig.json
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\bin\Debug\net6.0-windows\TurAgent.dll
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\bin\Debug\net6.0-windows\TurAgent.pdb
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.csproj.AssemblyReference.cache
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.Form1.resources
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.csproj.GenerateResource.cache
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.GeneratedMSBuildEditorConfig.editorconfig
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.AssemblyInfoInputs.cache
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.AssemblyInfo.cs
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.csproj.CoreCompileInputs.cache
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.dll
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\refint\TurAgent.dll
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.pdb
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.genruntimeconfig.cache
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\ref\TurAgent.dll
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.AdminMenuForm.resources
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.UserForm.resources
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.TourForm.resources
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.FillNewRowTourForm.resources
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.TravelList.resources
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.FillJournalForm.resources
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.Accounts.resources
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.UserTourForm.resources
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.FillAccountForm.resources
+E:\УниверЛабы\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.RegistrateAccount.resources
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\bin\Debug\net6.0-windows\TurAgent.exe
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\bin\Debug\net6.0-windows\TurAgent.deps.json
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\bin\Debug\net6.0-windows\TurAgent.runtimeconfig.json
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\bin\Debug\net6.0-windows\TurAgent.dll
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\bin\Debug\net6.0-windows\TurAgent.pdb
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.Accounts.resources
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.AdminMenuForm.resources
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.FillAccountForm.resources
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.FillJournalForm.resources
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.FillNewRowTourForm.resources
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.RegistrateAccount.resources
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.TourForm.resources
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.TravelList.resources
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.UserForm.resources
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.UserTourForm.resources
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.csproj.GenerateResource.cache
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.GeneratedMSBuildEditorConfig.editorconfig
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.AssemblyInfoInputs.cache
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.AssemblyInfo.cs
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.csproj.CoreCompileInputs.cache
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.dll
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\refint\TurAgent.dll
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.pdb
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.genruntimeconfig.cache
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\ref\TurAgent.dll
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.AuthorisationForm.resources
+E:\2 КУРС\ООП\Курсовая работа ООП\TurAgent\TurAgent\obj\Debug\net6.0-windows\TurAgent.Properties.Resources.resources
